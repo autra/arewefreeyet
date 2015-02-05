@@ -4,19 +4,17 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Not really, to be honest.</h1>
+  <p>While there are free (or at least open-source) alternative to a lot of existing software stacks, 
+  it is still nearly impossible to not have some proprietary code on our devices.</p>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <h2>Desktop computer</h2>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+  <h2>Mobile and smartphone</h2>
+
+  <h2>Wearables</h2>
+
+  <h2>Cars</h2>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
