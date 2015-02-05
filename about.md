@@ -16,4 +16,10 @@ By the way, this site is on GPLv2 licence and the code is hosted on [github][sou
 
 So contributions welcome! Anyway I won’t be able to handle that alone guys :-)
 
+Especially, I need :
+
+* Your knowledge on existing open-source and free software stacks obviously!
+* Another design. Seriously, this one sucks. 
+* Everything else you can suggest, criticize or ask for!
+
 [sourceUrl]: https://github.com/autra/arewefreeyet
