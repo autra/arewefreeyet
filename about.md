@@ -4,8 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is an attempt to reference if we can really run free software in our devices. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+By telling if we can have free software with a particular type of devices, this site aims at :
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+* Promote the use of free software by informing users about what is possible.
+* Serve as a reference to developers and contributors to know where work is needed!
+
+At least, that’s how I see it now, but it can change, particularly if you contribute! 
+By the way, this site is on GPLv2 licence and the code is hosted on [github][sourceUrl].
+
+So contributions welcome! Anyway I won’t be able to handle that alone guys :-)
+
+[sourceUrl]: https://github.com/autra/arewefreeyet
