@@ -3,8 +3,8 @@ title: Are we free* yet?
 email: augustin.trancart@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     This website references each popular type of devices alongside whether or not we can run open-source and ultimately free softwares.
-baseurl: "/arewefreeyet" # the subpath of your site, e.g. /blog/
-url: "http://autra.github.io/arewefreeyet/" # the base hostname & protocol for your site
+baseurl: "" 
+url: "http://arewefreeyet.org/"
 twitter_username: autra42
 github_username: autra
 
